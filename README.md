@@ -5,6 +5,7 @@ Explore Your Computer • Build a Mini System Report
 ## Student Information
 - **Name:** Kanishk Patel
 - **USN:** 2392608491
+- **Program:** B.Tech Computer Science & Engineering (First Year)
 - **GitHub Username:** [kanishk-codex](https://github.com/kanishk-codex)
 - **Repository Name:** `digital-detective-8491`
 - **Repository URL:** [https://github.com/kanishk-codex/digital-detective-8491](https://github.com/kanishk-codex/digital-detective-8491)
