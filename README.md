@@ -24,7 +24,7 @@ Each mission represents a focused investigation into computer systems fundamenta
 | :--- | :--- | :--- | :--- |
 | **Mission 0** | Repository and workspace setup | Completed | [mission-00-setup/README.md](mission-00-setup/README.md) |
 | **Mission 1** | Computer fundamentals and IPOS | Completed | [mission-01-computer-basics/README.md](mission-01-computer-basics/README.md) |
-| **Mission 2** | Terminal and file management | Planned | [mission-02-terminal/README.md](mission-02-terminal/README.md) |
+| **Mission 2** | Terminal and file management | Completed | [mission-02-terminal/README.md](mission-02-terminal/README.md) |
 | **Mission 3** | Operating system, processes and permissions | Planned | [mission-03-operating-system/README.md](mission-03-operating-system/README.md) |
 | **Mission 4** | How programs run | Planned | [mission-04-programs/README.md](mission-04-programs/README.md) |
 | **Mission 5** | Number systems, Python and text encoding | Planned | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
