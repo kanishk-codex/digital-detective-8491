@@ -37,4 +37,14 @@ Each mission represents a focused investigation into computer systems fundamenta
 ## Workflow and Commits
 Every mission in this repository is completed sequentially, verified through practical command-line activities or code execution, documented following the required uniform structure, and saved using an independent Git commit.
 
+---
+
+## My Learning
+During this assignment, I developed foundational skills across computing systems:
+1. **Understanding Computer Internals:** Tracing the IPOS (Input-Processing-Output-Storage) cycle revealed how keyboard interrupts, volatile memory buffers in RAM, the CPU scheduler, and non-volatile SSD blocks collaborate seamlessly when creating and executing software.
+2. **Command-Line Confidence:** Navigating the macOS filesystem using Terminal commands (`pwd`, `ls -lah`, `cp`, `mv`, and Unix pipes like `| head`) proved that complex file management and diagnostics can be performed faster and more reliably without relying on a graphical user interface.
+3. **Data Representation Mastery:** Converting numbers by hand between decimal, binary, and hexadecimal gave me a solid grasp of positional value notation, why hexadecimal is essential for representing raw byte values, and how character standards like ASCII and UTF-8 enable global digital communication.
+
+---
+
 *Note: In compliance with privacy guidelines, sensitive personal network addresses, local account names, and hardware identifiers have been redacted throughout this repository.*
